@@ -9,6 +9,7 @@
 body{
     display: flex;
     justify-content: center;
+    font-family: "Shantell Sans", cursive;
     align-items: center;
     min-height: 100vh;
     background: url("image.icon.jpeg") no-repeat;
